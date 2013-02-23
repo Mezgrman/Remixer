@@ -1,6 +1,6 @@
 Remixer – A fun tool to make a pseudo remix using speech synthesis
 ==================================================================
-This program is not intended (and not nearly capable of) making actual remixes that sound good. It's just a fun tool.
+This program is not intended to (and not even remotely capable of) making actual remixes that sound good. It's just a fun tool.
 
 License
 -------
@@ -12,4 +12,4 @@ You need `espeak` for this to work.
 
 Usage
 -----
-Coming soon
+Just call `remixer.py` with the `-h` argument to see valid command-line arguments.
